@@ -1,0 +1,133 @@
+@charset "utf-8";
+* {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 5434px;
+  /* UI Properties */
+  background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.sp1 {
+  top: 0px;
+  left: 0px;
+  width: 51px;
+  height: 60px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold)
+    var(--unnamed-font-size-45) / var(--unnamed-line-spacing-60)
+    var(--unnamed-font-family-segoe-ui);
+  letter-spacing: var(--unnamed-character-spacing-0-45);
+  color: var(--unnamed-color-ff5959);
+  text-align: left;
+  font: normal normal bold 45px/60px Segoe UI;
+  letter-spacing: 0.45px;
+  color: #ff5959;
+}
+
+.sp2 {
+  top: 0px;
+  left: 160px;
+  width: 141px;
+  height: 60px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-bold)
+    var(--unnamed-font-size-45) / var(--unnamed-line-spacing-60)
+    var(--unnamed-font-family-segoe-ui);
+  letter-spacing: var(--unnamed-character-spacing-0-45);
+  color: var(--unnamed-color-7559ff);
+  text-align: left;
+  font: normal normal bold 45px/60px Segoe UI;
+  letter-spacing: 0.45px;
+  color: #7559ff;
+}
+
+.nav1 {
+  /* Layout Properties */
+  top: 84px;
+  left: 1064px;
+  width: 67px;
+  height: 33px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-25) /
+    var(--unnamed-line-spacing-33) var(--unnamed-font-family-yu-gothic-ui);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-295194);
+  text-align: left;
+  font: normal normal normal 25px/33px Yu Gothic UI;
+  letter-spacing: 0px;
+  color: #295194;
+  opacity: 1;
+}
+
+.nav2 {
+  top: 84px;
+  left: 1193px;
+  width: 85px;
+  height: 33px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-25) /
+    var(--unnamed-line-spacing-33) var(--unnamed-font-family-yu-gothic-ui);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-295194);
+  text-align: left;
+  font: normal normal normal 25px/33px Yu Gothic UI;
+  letter-spacing: 0px;
+  color: #295194;
+  opacity: 1;
+}
+
+.nav3 {
+  top: 84px;
+  left: 1340px;
+  width: 68px;
+  height: 33px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-25) /
+    var(--unnamed-line-spacing-33) var(--unnamed-font-family-yu-gothic-ui);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-295194);
+  text-align: left;
+  font: normal normal normal 25px/33px Yu Gothic UI;
+  letter-spacing: 0px;
+  color: #295194;
+  opacity: 1;
+}
+
+.btn1 {
+  top: 84px;
+  left: 1483px;
+  width: 75px;
+  height: 33px;
+  /* Layout Properties */
+  top: 70px;
+  left: 1439px;
+  width: 167px;
+  height: 60px;
+  /* UI Properties */
+  background: var(--unnamed-color-ff5959) 0% 0% no-repeat padding-box;
+  background: #ff5959 0% 0% no-repeat padding-box;
+  opacity: 1;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-25) /
+    var(--unnamed-line-spacing-33) var(--unnamed-font-family-yu-gothic-ui);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-ffffff);
+  text-align: left;
+  font: normal normal normal 25px/33px Yu Gothic UI;
+}
+
+.img1 {
+  /* Layout Properties */
+  top: 299px;
+  left: 279px;
+  width: 1362px;
+  height: 755px;
+  opacity: 1;
+}
