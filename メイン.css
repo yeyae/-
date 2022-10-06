@@ -96,38 +96,156 @@
   font: normal normal normal 25px/33px Yu Gothic UI;
   letter-spacing: 0px;
   color: #295194;
+  opacity: 2;
+}
+
+.img1 {
+  top: 299px;
+  left: 279px;
+  width: 1362px;
+  height: 755px;
+  /* UI Properties */
+  background: transparent url("img/okinawa.png") 0% 0% no-repeat padding-box;
   opacity: 1;
 }
 
-.btn1 {
-  top: 84px;
-  left: 1483px;
-  width: 75px;
-  height: 33px;
-  /* Layout Properties */
-  top: 70px;
-  left: 1439px;
-  width: 167px;
-  height: 60px;
+.img2 {
+  top: 1349px;
+  left: 418px;
+  width: 340px;
+  height: 270px;
   /* UI Properties */
-  background: var(--unnamed-color-ff5959) 0% 0% no-repeat padding-box;
-  background: #ff5959 0% 0% no-repeat padding-box;
+  background: transparent url("img/5.png") 0% 0% no-repeat padding-box;
   opacity: 1;
+}
+.img3 {
+  /* Layout Properties */
+  top: 1854px;
+  left: 1225px;
+  width: 415px;
+  height: 270px;
+  /* UI Properties */
+  background: transparent url("img/6.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.img4 {
+  /* Layout Properties */
+  top: 2360px;
+  left: 418px;
+  width: 405px;
+  height: 270px;
+  /* UI Properties */
+  background: transparent url("img/7.png") 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+.ex1 {
+  top: 1054px;
+  left: 1482px;
+  width: 158px;
+  height: 24px;
+  /* UI Properties */
+  color: var(--unnamed-color-707070);
+  text-align: center;
+  letter-spacing: NaNpx;
+  color: #707070;
+  opacity: 1;
+}
+
+.moji1 {
+  /* Layout Properties */
+  top: 1465px;
+  left: 996px;
+  width: 526px;
+  height: 66px;
   /* UI Properties */
   font: var(--unnamed-font-style-normal) normal
     var(--unnamed-font-weight-normal) var(--unnamed-font-size-25) /
     var(--unnamed-line-spacing-33) var(--unnamed-font-family-yu-gothic-ui);
   letter-spacing: var(--unnamed-character-spacing-0);
-  color: var(--unnamed-color-ffffff);
+  color: var(--unnamed-color-707070);
   text-align: left;
   font: normal normal normal 25px/33px Yu Gothic UI;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
 }
 
-.img1 {
+.moji2 {
   /* Layout Properties */
-  top: 299px;
-  left: 279px;
-  width: 1362px;
-  height: 755px;
+  top: 1972px;
+  left: 707px;
+  width: 401px;
+  height: 33px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-25) /
+    var(--unnamed-line-spacing-33) var(--unnamed-font-family-yu-gothic-ui);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-707070);
+  text-align: left;
+  font: normal normal normal 25px/33px Yu Gothic UI;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+}
+.moji3 {
+  /* Layout Properties */
+  top: 2976px;
+  left: 653px;
+  width: 615px;
+  height: 60px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-45) /
+    var(--unnamed-line-spacing-60) var(--unnamed-font-family-segoe-ui);
+  letter-spacing: var(--unnamed-character-spacing-18);
+  color: var(--unnamed-color-707070);
+  text-align: left;
+  font: normal normal normal 45px/60px Segoe UI;
+  letter-spacing: 18px;
+  color: #707070;
+  opacity: 1;
+}
+
+.moji4 {
+  /* Layout Properties */
+  top: 4550px;
+  left: 693px;
+  width: 534px;
+  height: 165px;
+  /* UI Properties */
+  font: var(--unnamed-font-style-normal) normal
+    var(--unnamed-font-weight-normal) var(--unnamed-font-size-25) /
+    var(--unnamed-line-spacing-33) var(--unnamed-font-family-yu-gothic-ui);
+  letter-spacing: var(--unnamed-character-spacing-0);
+  color: var(--unnamed-color-707070);
+  text-align: center;
+  font: normal normal normal 25px/33px Yu Gothic UI;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+}
+.img5 {
+  /* Layout Properties */
+  top: 3614px;
+  left: 280px;
+  width: 1360px;
+  height: 676px;
+  /* UI Properties */
+  border: 1px solid var(--unnamed-color-707070);
+  background: transparent url("img/1.png") 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+}
+
+.hr1 {
+  top: 138px;
+  left: 280px;
+  width: 1360px;
+  height: 0px;
+  /* UI Properties */
+  border: 2px solid var(--unnamed-color-ff5959);
+  border: 2px solid #ff5959;
   opacity: 1;
 }
